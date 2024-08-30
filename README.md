@@ -9,8 +9,8 @@ Welcome to my Data Analyst portfolio! This repository showcases my skills in dat
 - **Others**: Jupyter Notebook, Google Colab, Visual Studio Code
 
 ## Data Sources
-- **Dataset 1**: [Kaggle - Sales Data](https://www.kaggle.com/datasets)
-- **Dataset 2**: [UCI Machine Learning Repository - Customer Data](https://archive.ics.uci.edu/ml/datasets.php)
+- **Dataset 1**: [Customers-Dataset](https://drive.google.com/drive/folders/1eD_YhwJDMTs2QbNXbyV-cQGXAaSBm93O?usp=sharing)
+- **Dataset 2**: 
 
 # Case Study 1: Analyzing eCommerce Business using SQL
 
