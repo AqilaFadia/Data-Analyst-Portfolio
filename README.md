@@ -20,7 +20,7 @@ This project is to analyze the performance of a leading eCommerce marketplace. W
 - **Techniques**: Data Wrangling
 - **Outcome**: The analysis provided a comprehensive overview of the eCommerce marketplace's performance by examining key aspects such as customer growth, product quality, and payment types. It identified significant trends and patterns in each area, offering valuable insights into overall business performance. These findings support strategic decision-making by highlighting strengths and areas for improvement, enabling the company to enhance its operations and better meet market demands..
 
-[View Full Analysis](link_to_full_analysis](https://github.com/AqilaFadia/Data-Analyst-Portfolio/blob/main/dataAnalyst.sql)
+[View Full Analysis](link_to_full_analysis]([https://github.com/AqilaFadia/Data-Analyst-Portfolio/blob/main/dataAnalyst.sql])
 
 ## Other Projects
 
