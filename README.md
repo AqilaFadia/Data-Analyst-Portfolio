@@ -12,13 +12,13 @@ Welcome to my Data Analyst portfolio! This repository showcases my skills in dat
 - **Dataset 1**: [Kaggle - Sales Data](https://www.kaggle.com/datasets)
 - **Dataset 2**: [UCI Machine Learning Repository - Customer Data](https://archive.ics.uci.edu/ml/datasets.php)
 
-# Case Study 1: Sales Analysis
+# Case Study 1: Analyzing eCommerce Business using SQL
 
-In this case study, I analyzed the sales data to identify key trends and factors affecting revenue. Using data cleaning, wrangling, and EDA techniques, I identified that the East region contributed the highest sales during Q4 of the fiscal year.
+This project is to analyze the performance of a leading eCommerce marketplace. With key aspects: customer growth, product quality, and payment types, to create a comprehensive performance report that aids in strategic decision-making.
 
-- **Objective**: To analyze the sales performance across different regions.
-- **Techniques**: Data Cleaning, Data Wrangling, EDA
-- **Outcome**: Identified the East region as the top-performing sales region with a 15% increase in sales during Q4.
+- **Objective**: To analyze  to analyze the performance of a leading eCommerce marketplace.
+- **Techniques**: Data Wrangling
+- **Outcome**: The analysis provided a comprehensive overview of the eCommerce marketplace's performance by examining key aspects such as customer growth, product quality, and payment types. It identified significant trends and patterns in each area, offering valuable insights into overall business performance. These findings support strategic decision-making by highlighting strengths and areas for improvement, enabling the company to enhance its operations and better meet market demands..
 
 [View Full Analysis](link_to_full_analysis)
 
