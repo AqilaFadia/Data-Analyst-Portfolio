@@ -12,7 +12,7 @@ Welcome to my Data Analyst portfolio! This repository showcases my skills in dat
 - **Dataset 1**: [Customers-Dataset](https://drive.google.com/drive/folders/1eD_YhwJDMTs2QbNXbyV-cQGXAaSBm93O?usp=sharing)
 - **Dataset 2**: 
 
-# Case Study 1: Analyzing eCommerce Business using SQL
+### Case Study 1: Analyzing eCommerce Business using SQL
 
 This project is to analyze the performance of a leading eCommerce marketplace. With key aspects: customer growth, product quality, and payment types, to create a comprehensive performance report that aids in strategic decision-making.
 
@@ -22,14 +22,14 @@ This project is to analyze the performance of a leading eCommerce marketplace. W
 
 [View Full Analysis](https://github.com/AqilaFadia/Data-Analyst-Portfolio/blob/main/dataAnalyst.sql)
 
-# Case Study 2: Predictive Analysis: Data-Driven Insights: Visualizing Hotel Booking Patterns for Strategic Decision-Making
+### Case Study 2: Predictive Analysis: Data-Driven Insights: Visualizing Hotel Booking Patterns for Strategic Decision-Making
 This project visualizes hotel booking data to identify important patterns and trends. The analysis helps understand customer behavior and factors affecting hotel business performance.
 
 - **Techniques**: To identify booking patterns, seasonal trends, and factors influencing cancellations to support hotel business strategies.
 - **Techniques**: Using exploratory data analysis to discover patterns and trends, data cleaning to improve data quality, and data visualization with tools like Tableau or Matplotlib to illustrate findings.
 - **Outcome**: Insights into booking trends, customer preferences, and cancellation factors that can be used to improve hotel marketing strategies and operations.
 
-[View Project](link_to_project)
+[View Project](https://github.com/AqilaFadia/Data-Analyst-Portfolio/blob/main/Investigate_Data_Visualization_hotel.ipynb)
 
 
 
