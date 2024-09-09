@@ -22,14 +22,12 @@ This project is to analyze the performance of a leading eCommerce marketplace. W
 
 [View Full Analysis](https://github.com/AqilaFadia/Data-Analyst-Portfolio/blob/main/dataAnalyst.sql)
 
-## Other Projects
+# Case Study 2: Predictive Analysis: Data-Driven Insights: Visualizing Hotel Booking Patterns for Strategic Decision-Making
+This project visualizes hotel booking data to identify important patterns and trends. The analysis helps understand customer behavior and factors affecting hotel business performance.
 
-### Predictive Analysis: Customer Churn Prediction
-
-This project involved predicting customer churn using logistic regression. The model achieved an accuracy of 85% and highlighted key features that influence customer retention.
-
-- **Techniques**: Logistic Regression, Feature Engineering
-- **Outcome**: Developed a model to predict churn with 85% accuracy.
+- **Techniques**: To identify booking patterns, seasonal trends, and factors influencing cancellations to support hotel business strategies.
+- **Techniques**: Using exploratory data analysis to discover patterns and trends, data cleaning to improve data quality, and data visualization with tools like Tableau or Matplotlib to illustrate findings.
+- **Outcome**: Insights into booking trends, customer preferences, and cancellation factors that can be used to improve hotel marketing strategies and operations.
 
 [View Project](link_to_project)
 
