@@ -10,7 +10,7 @@ Welcome to my Data Analyst portfolio! This repository showcases my skills in dat
 
 ## Data Sources
 - **Dataset 1**: [Customers-Dataset](https://drive.google.com/drive/folders/1eD_YhwJDMTs2QbNXbyV-cQGXAaSBm93O?usp=sharing)
-- **Dataset 2**: 
+- **Dataset 2**: [Booking-Hotel-Dataset](https://drive.google.com/file/d/1zk_l7tKL5J0bJTp3RtrcxVycRs5BoDOl/view?usp=sharing)
 
 ### Case Study 1: Analyzing eCommerce Business using SQL
 
