@@ -22,7 +22,7 @@ This project is to analyze the performance of a leading eCommerce marketplace. W
 
 [View Full Analysis](https://github.com/AqilaFadia/Data-Analyst-Portfolio/blob/main/dataAnalyst.sql)
 
-### Case Study 2: Predictive Analysis: Data-Driven Insights: Visualizing Hotel Booking Patterns for Strategic Decision-Making
+### Case Study 2: Data-Driven Insights: Visualizing Hotel Booking Patterns for Strategic Decision-Making
 This project visualizes hotel booking data to identify important patterns and trends. The analysis helps understand customer behavior and factors affecting hotel business performance.
 
 - **Techniques**: To identify booking patterns, seasonal trends, and factors influencing cancellations to support hotel business strategies.
